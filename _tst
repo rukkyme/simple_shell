@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -g -std=c90 -Wall -Werror -Wextra -pedantic *.c -o hsh && ./hsh
+
+
